@@ -132,7 +132,6 @@ class GlobalStylesColorCustomizer {
 	}
 
 	function register_duotone_controls( $wp_customize ) {
-
 		$wp_customize->add_setting(
 			'duotone_control',
 			array(
